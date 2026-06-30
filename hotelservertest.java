@@ -1,8 +1,8 @@
-public class hotelServerTest {
+public class hotelserverTest {
 
     public static void main(String[] args) {
 
-        hotelServer server = new hotelServer();
+        hotelserver server = new hotelserver();
 
         if (server != null) {
             System.out.println("TEST PASSED");
