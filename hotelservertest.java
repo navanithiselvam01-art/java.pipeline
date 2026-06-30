@@ -1,4 +1,4 @@
-public class hotelserverTest {
+public class hotelservertest {
 
     public static void main(String[] args) {
 
